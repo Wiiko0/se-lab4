@@ -1,2 +1,17 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
+SUCCESS
+FAIL # a primary hibas es azzal akar kezdeni
+SUCCESS # GT4500
+SUCCESS #egyet lo
+SUCCESS #egyet lo
+FAIL #harmadik mar nem volt a tartalyban
+SUCCESS # GT4500
+SUCCESS #jo tartalybol
+FAIL # rossz tartalybol
+SUCCESS #GT4500
+SUCCESS #lott a masodikbol
+SUCCESS #GT4500
+FAIL #primary hibas
+SUCCESS #GT4500
+SUCCESS #lott ALLt

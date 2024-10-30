@@ -1,3 +1,22 @@
 # Create a ship with stocked torpedo stores that never fail
 GT4500,10,0,10,0
 TORPEDO,SINGLE  # should have fired from the primary store
+#Create a ship with a failing primary
+GT4500,10,1,10,0
+TORPEDO,SINGLE
+#single egyet lo
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+#felvaltva lonek
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+#ha az egyik ures, masikat hivja
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+GT4500,10,1,10,0
+TORPEDO,SINGLE
+GT4500,10,0,10,0
+TORPEDO,ALL
