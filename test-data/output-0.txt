@@ -1,2 +1,39 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
+SUCCESS
+FAIL # a primary hibas es azzal akar kezdeni
+SUCCESS # GT4500
+SUCCESS #egyet lo
+SUCCESS #egyet lo
+FAIL #harmadik mar nem volt a tartalyban
+SUCCESS # GT4500
+SUCCESS #jo tartalybol
+FAIL # rossz tartalybol
+SUCCESS #GT4500
+SUCCESS #lott a masodikbol
+SUCCESS #GT4500
+FAIL #primary hibas
+SUCCESS #GT4500
+SUCCESS #lott ALLt
+#1-1 3 shoot
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
+#primary was fired last time, secondary empty, fire primary again
+SUCCESS
+SUCCESS
+SUCCESS
+#primarybol lottem, mindketto ures
+SUCCESS
+SUCCESS
+FAIL
+#all masodik ures
+SUCCESS
+SUCCESS
+#all elso ures
+SUCCESS
+SUCCESS
+#all mindketto ures
+SUCCESS
+FAIL
