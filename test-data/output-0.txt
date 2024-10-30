@@ -28,3 +28,12 @@ SUCCESS
 SUCCESS
 SUCCESS
 FAIL
+#all masodik ures
+SUCCESS
+SUCCESS
+#all elso ures
+SUCCESS
+SUCCESS
+#all mindketto ures
+SUCCESS
+FAIL
