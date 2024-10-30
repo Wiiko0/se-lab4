@@ -24,3 +24,7 @@ FAIL
 SUCCESS
 SUCCESS
 SUCCESS
+#primarybol lottem, mindketto ures
+SUCCESS
+SUCCESS
+FAIL
